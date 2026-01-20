@@ -23,7 +23,7 @@ Computer Science student focusing on Linux Kernel development, Cybersecurity, an
 
 | 📊 My GitHub Stats | 🏆 Most Used Languages |
 | :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Karss-art&show_icons=true&theme=tokyonight) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karss-art&layout=compact&theme=tokyonight) |
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karss-art&layout=compact&theme=tokyonight)
 
 ### 🚀 Projetos Públicos
 * **[Seal](https://github.com/Karss-art/Seal):** custom shell.
@@ -40,7 +40,5 @@ Computer Science student focusing on Linux Kernel development, Cybersecurity, an
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Assembly](https://img.shields.io/badge/x86__64_ASM-%23000000.svg?style=for-the-badge&logo=esphome&logoColor=white)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8A2BE2?style=for-the-badge&logo=target&logoColor=white)
-
-![GitStyle](https://git-style.vercel.app/api/your-github-username?theme=hair)
 
 
