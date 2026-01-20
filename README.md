@@ -17,6 +17,11 @@ student em Computer Science com foco em Linux Kernel development, Cybersecurity 
 
     Kernel-kars: Meu core de estudos e desenvolvimento focado em baixo nível.<!--
 
+| My Stats | Top Languages |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Karss-art&show_icons=true&theme=tokyonight) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karss-art&layout=compact&theme=tokyonight) |
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -25,8 +30,3 @@ student em Computer Science com foco em Linux Kernel development, Cybersecurity 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Scapy](https://img.shields.io/badge/Scapy-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=blue)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-[![Kars's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karss-art&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karss-art&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-| My Stats | Top Languages |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Karss-art&show_icons=true&theme=tokyonight) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karss-art&layout=compact&theme=tokyonight) |
