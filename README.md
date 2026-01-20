@@ -2,7 +2,9 @@
 
 ⚡ Kars | Computer Science & Cybersec
 
-student em Computer Science com foco em Linux Kernel development, Cybersecurity e Automation. Atualmente buildando ferramentas de segurança ofensiva e explorando as camadas mais profundas do sistema operacional.
+Computer Science student focusing on Linux Kernel development, Cybersecurity, and Automation. Currently building offensive security tools and exploring the deepest layers of the operating system.
+
+
 🛠 Tech Stack & Hacking Tools
 
     Languages: Python (Scapy, Automation), Rust/C (Kernel/Systems).
@@ -13,9 +15,9 @@ student em Computer Science com foco em Linux Kernel development, Cybersecurity 
 
 🚀 Ongoing Projects
 
-    Puera: Ferramenta de PenTest desenvolvida em Python + Scapy para análise e manipulação de pacotes de rede.
+    Puera: Penetration testing tool developed in Python + Scapy for network packet analysis and manipulation.
 
-    Kernel-kars: Meu core de estudos e desenvolvimento focado em baixo nível.<!--
+    Kernel-kars: My core area of ​​study and development focused on low-level computing.
 
 | 📊 My GitHub Stats | 🏆 Most Used Languages |
 | :---: | :---: |
