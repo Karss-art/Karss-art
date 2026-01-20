@@ -23,11 +23,13 @@ Computer Science student focusing on Linux Kernel development, Cybersecurity, an
 
 
 
-### 🚀 Projetos Públicos
+### 🚀 Publics
 * **[Seal](https://github.com/Karss-art/Seal):** custom shell.
 
-### 🛡️ Projetos Privados (Under Dev)
-* **Puera:** PenTest tool (Python + Scapy).
+### 🛡️ Private (Under Dev)
+* **Puera:** PenTest tool scan (Python + Scapy). 
+* **Sherlock** Custom LKM (Loadable Kernel Module) Rootkit Hunter  (C + assembly)
+* **Inpw** Sistem security for my arch ( C + Rust) 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
