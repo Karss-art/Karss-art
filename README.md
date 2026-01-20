@@ -17,10 +17,9 @@ student em Computer Science com foco em Linux Kernel development, Cybersecurity 
 
     Kernel-kars: Meu core de estudos e desenvolvimento focado em baixo nível.<!--
 
-| My Stats | Top Languages |
 | 📊 My GitHub Stats | 🏆 Most Used Languages |
 | :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Karss-art&show_icons=true&theme=tokyonight) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karss-art&layout=compact&theme=tokyonight) | 
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Karss-art&show_icons=true&theme=tokyonight) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karss-art&layout=compact&theme=tokyonight) |
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
