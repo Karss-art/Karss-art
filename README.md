@@ -6,8 +6,10 @@ Computer Science student focusing on Linux Kernel development, Cybersecurity, an
 
 
 🛠 Tech Stack & Hacking Tools
+    
+    Languages I Code: (C, Python, Rust)
 
-    Languages: Python (Scapy, Automation), Rust/C (Kernel/Systems).
+    Languages I Read/Reverse: (Assembly x86_64)
 
     Env: Arch Linux user (Hyprland rice enjoyer).
 
