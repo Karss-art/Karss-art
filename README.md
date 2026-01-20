@@ -29,5 +29,3 @@ student em Computer Science com foco em Linux Kernel development, Cybersecurity 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Scapy](https://img.shields.io/badge/Scapy-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=blue)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-[![Kars's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Karss-art&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
