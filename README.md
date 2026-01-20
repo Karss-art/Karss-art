@@ -16,3 +16,9 @@ student em Computer Science com foco em Linux Kernel development, Cybersecurity 
     Puera: Ferramenta de PenTest desenvolvida em Python + Scapy para análise e manipulação de pacotes de rede.
 
     Kernel-kars: Meu core de estudos e desenvolvimento focado em baixo nível.<!--
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
