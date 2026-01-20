@@ -21,8 +21,6 @@ Computer Science student focusing on Linux Kernel development, Cybersecurity, an
 
     Kernel-kars: My core area of ​​study and development focused on low-level computing.
 
-| 📊 My GitHub Stats | 🏆 Most Used Languages |
-| :---: | :---: |
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karss-art&layout=compact&theme=tokyonight)
 
 ### 🚀 Projetos Públicos
