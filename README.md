@@ -13,7 +13,7 @@ Computer Science student focusing on Linux Kernel development, Cybersecurity, an
 
     Env: Arch Linux user (Hyprland rice enjoyer).
 
-    Focus: Penetration Testing, Bug Bounty, Kernel modules e automação de processos.
+    Focus: Penetration Testing, Bug Bounty, Kernel modules e automation.
 
 🚀 Ongoing Projects
 
