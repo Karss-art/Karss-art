@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-⚡ Kars | Computer Science & Cybersec
+Kars | Computer Science & Cybersec
 
 Computer Science student focusing on Linux Kernel development, Cybersecurity, and Automation. Currently building offensive security tools and exploring the deepest layers of the operating system.
 
