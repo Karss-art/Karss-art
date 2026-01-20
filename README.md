@@ -31,3 +31,5 @@ Computer Science student focusing on Linux Kernel development, Cybersecurity, an
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Scapy](https://img.shields.io/badge/Scapy-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=blue)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Assembly](https://img.shields.io/badge/x86__64_ASM-%23000000.svg?style=for-the-badge&logo=esphome&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8A2BE2?style=for-the-badge&logo=target&logoColor=white)
