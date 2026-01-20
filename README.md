@@ -7,11 +7,11 @@ Computer Science student focusing on Linux Kernel development, Cybersecurity, an
 
 🛠 Tech Stack & Hacking Tools
     
-    Languages I Code: (C, Python, Rust)
+    Languages I Code: (C, Python, Rust,js)
 
     Languages I Read/Reverse: (Assembly x86_64)
 
-    Env: Arch Linux user (Hyprland rice enjoyer).
+    Env: Arch Linux user (Hyprland rice enjoyer). # My hyprland rice dotfix (in working)
 
     Focus: Penetration Testing, Bug Bounty, Kernel modules e automation.
 
@@ -40,4 +40,6 @@ Computer Science student focusing on Linux Kernel development, Cybersecurity, an
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Assembly](https://img.shields.io/badge/x86__64_ASM-%23000000.svg?style=for-the-badge&logo=esphome&logoColor=white)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8A2BE2?style=for-the-badge&logo=target&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
