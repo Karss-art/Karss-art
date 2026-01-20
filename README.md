@@ -16,9 +16,7 @@ PhD student em Computer Science com foco em Linux Kernel development, Cybersecur
     Puera: Ferramenta de PenTest desenvolvida em Python + Scapy para análise e manipulação de pacotes de rede.
 
     Kernel-kars: Meu core de estudos e desenvolvimento focado em baixo nível.<!--
-**Karss-art/Karss-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
