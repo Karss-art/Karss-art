@@ -25,6 +25,12 @@ Computer Science student focusing on Linux Kernel development, Cybersecurity, an
 | :---: | :---: |
 | ![Stats](https://github-readme-stats.vercel.app/api?username=Karss-art&show_icons=true&theme=tokyonight) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karss-art&layout=compact&theme=tokyonight) |
 
+### 🚀 Projetos Públicos
+* **[Seal](https://github.com/Karss-art/Seal):** Um shell customizado em C para estudo de sistemas operacionais, gerenciamento de jobs e syscalls.
+
+### 🛡️ Projetos Privados (Under Dev)
+* **Puera:** Ferramenta de PenTest (Python + Scapy).
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
