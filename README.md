@@ -2,7 +2,7 @@
 
 ⚡ Kars | Computer Science & Cybersec
 
-PhD student em Computer Science com foco em Linux Kernel development, Cybersecurity e Automation. Atualmente buildando ferramentas de segurança ofensiva e explorando as camadas mais profundas do sistema operacional.
+student em Computer Science com foco em Linux Kernel development, Cybersecurity e Automation. Atualmente buildando ferramentas de segurança ofensiva e explorando as camadas mais profundas do sistema operacional.
 🛠 Tech Stack & Hacking Tools
 
     Languages: Python (Scapy, Automation), Rust/C (Kernel/Systems).
