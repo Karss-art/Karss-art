@@ -34,3 +34,4 @@ Computer Science student focusing on Linux Kernel development, Cybersecurity, an
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Assembly](https://img.shields.io/badge/x86__64_ASM-%23000000.svg?style=for-the-badge&logo=esphome&logoColor=white)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8A2BE2?style=for-the-badge&logo=target&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=microchip&logoColor=white)
