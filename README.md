@@ -42,8 +42,6 @@ Computer Science student focusing on Linux Kernel development, Cybersecurity, an
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8A2BE2?style=for-the-badge&logo=target&logoColor=white)
 ![C](https://img.shields.io/badge/language-C-blue.svg)
 ![DKMS](https://img.shields.io/badge/DKMS-supported-orange.svg)
-[Memory Safety](https://img.shields.io/badge/memory-unsafe-red.svg)
 ![Ring](https://img.shields.io/badge/access-Ring_0-black.svg)
 ![Intel SDM](https://img.shields.io/badge/Reference-Intel%C2%AE_64_%26_IA--32-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Intel SDM](https://img.shields.io/badge/Architecture-x86__64_/_IA--32-red?style=for-the-badge&logo=intel&logoColor=white)
-![ISA](https://img.shields.io/badge/ISA-x86__64-red?style=for-the-badge)
