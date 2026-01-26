@@ -11,7 +11,7 @@ Computer Science student focusing on Linux Kernel development, Cybersecurity, an
 
     Languages I Read/Reverse: (Assembly x86_64)
 
-    Env: Arch Linux user (Hyprland rice enjoyer). # My hyprland rice dotfix (in working)
+    Env: Arch, Tails and Gentoo
 
     Focus: Penetration Testing, Bug Bounty, Kernel modules e automation.
 
