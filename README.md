@@ -29,6 +29,7 @@ Computer Science student focusing on Linux Kernel development, Cybersecurity, an
 ### 🛡️ Private (Under Dev)
 * **Puera:** PenTest tool scan (Python + Scapy). 
 * **Sherlock** Custom LKM (Loadable Kernel Module) Rootkit Hunter  (C + assembly)
+* **Anubis** Another pentest tool
 * **Inpw** Sistem security for my arch ( C + Rust) 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
